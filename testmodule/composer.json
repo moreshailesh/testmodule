@@ -1,0 +1,14 @@
+{
+  "name": "drupal/testmodule",
+  "type": "drupal-module",
+  "description": "Module to study Block API",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://www.drupal.org/project/testmodule",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "https://www.drupal.org/project/issues/testmodule",
+    "source": "http://cgit.drupalcode.org/testmodule"
+  },
+  "require": { }
+}
